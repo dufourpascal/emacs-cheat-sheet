@@ -5,6 +5,11 @@ A super quick cheat sheet of emacs key bindings
 https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf
 
 ## Files
-| Keys | Action |
--------|---------
-| <kbd>C-x</kbd> <kbd>C-s</kbd> | Save  |
+Keys | Action
+-----|-------
+<kbd>C-x</kbd> <kbd>C-s</kbd> | Save
+<kbd>C-a</kbd>                | Goto beginning of line
+<kbd>C-e</kbd>                | Goto end of line
+<kbd>C-n</kbd>                | Goto next line
+<kbd>C-SPC</kbd>              | Mark
+<kbd>M-w</kbd>                | Copy
