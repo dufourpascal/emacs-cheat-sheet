@@ -13,3 +13,7 @@ Keys | Action
 <kbd>C-n</kbd>                | Goto next line
 <kbd>C-SPC</kbd>              | Mark
 <kbd>M-w</kbd>                | Copy
+<kbd>C-w</kbd>                | Cut
+<kbd>C-y</kbd>                | Paste
+<kbd>C-S-y</kbd>              | Kill entire line
+<kbd>C-k</kbd>                | Kill rest of line
